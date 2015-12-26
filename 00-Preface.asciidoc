@@ -1,3 +1,4 @@
 = Git In Practice
 This is text that will go in the preface.
 More preface text.
+Some more text.
