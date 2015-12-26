@@ -1,4 +1,9 @@
+= Git In Practice
 ## Chapter 1
 It is a truth universally acknowledged, that a single person in
 possession of good soure code, must be in want of a version control 
 system.
+
+## Chapter 2
+// TODO: write two chapters
+
