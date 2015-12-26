@@ -1,6 +1,4 @@
-some changed text
-##TODO -- Add a readme.md file --
-More changes
-Now on branch chapter-two
+## Chapter 1
+Some content that will go in chapter 1.
 
 This is the start of chapter two.
